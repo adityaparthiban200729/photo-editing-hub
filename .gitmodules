@@ -1,0 +1,132 @@
+[submodule "editors/gimp"]
+	path = editors/gimp
+	url = https://github.com/GNOME/gimp
+[submodule "editors/darktable"]
+	path = editors/darktable
+	url = https://github.com/darktable-org/darktable
+[submodule "editors/graphite"]
+	path = editors/graphite
+	url = https://github.com/GraphiteEditor/Graphite
+[submodule "editors/krita"]
+	path = editors/krita
+	url = https://github.com/KDE/krita
+[submodule "editors/rawtherapee"]
+	path = editors/rawtherapee
+	url = https://github.com/RawTherapee/RawTherapee
+[submodule "editors/pinta"]
+	path = editors/pinta
+	url = https://github.com/PintaProject/Pinta
+[submodule "editors/mypaint"]
+	path = editors/mypaint
+	url = https://github.com/mypaint/mypaint
+[submodule "editors/digikam"]
+	path = editors/digikam
+	url = https://github.com/KDE/digikam
+[submodule "web/squoosh"]
+	path = web/squoosh
+	url = https://github.com/GoogleChromeLabs/squoosh
+[submodule "web/minipaint"]
+	path = web/minipaint
+	url = https://github.com/viliusle/miniPaint
+[submodule "web/tui-image-editor"]
+	path = web/tui-image-editor
+	url = https://github.com/nhn/tui.image-editor
+[submodule "web/filerobot-image-editor"]
+	path = web/filerobot-image-editor
+	url = https://github.com/scaleflex/filerobot-image-editor
+[submodule "web/unlayer-react-image-editor"]
+	path = web/unlayer-react-image-editor
+	url = https://github.com/unlayer/react-image-editor
+[submodule "web/react-photo-editor"]
+	path = web/react-photo-editor
+	url = https://github.com/musama619/react-photo-editor
+[submodule "web/react-konva-image-editor"]
+	path = web/react-konva-image-editor
+	url = https://github.com/wormwlrm/react-konva-image-editor
+[submodule "web/ascentspark-react-image-editor"]
+	path = web/ascentspark-react-image-editor
+	url = https://github.com/ascentspark/react-image-editor
+[submodule "web/ente-photo-editor-sdk"]
+	path = web/ente-photo-editor-sdk
+	url = https://github.com/ente/photo-editor-sdk
+[submodule "web/rapidraw"]
+	path = web/rapidraw
+	url = https://github.com/CyberTimon/RapidRAW
+[submodule "web/photova"]
+	path = web/photova
+	url = https://github.com/phishy/photova
+[submodule "web/fabricjs"]
+	path = web/fabricjs
+	url = https://github.com/fabricjs/fabric.js
+[submodule "web/cropperjs"]
+	path = web/cropperjs
+	url = https://github.com/fengyuanchen/cropperjs
+[submodule "web/pixijs"]
+	path = web/pixijs
+	url = https://github.com/pixijs/pixijs
+[submodule "web/camanjs"]
+	path = web/camanjs
+	url = https://github.com/meltingice/CamanJS
+[submodule "web/jimp"]
+	path = web/jimp
+	url = https://github.com/jimp-dev/jimp
+[submodule "web/sharp"]
+	path = web/sharp
+	url = https://github.com/lovell/sharp
+[submodule "web/pica"]
+	path = web/pica
+	url = https://github.com/nodeca/pica
+[submodule "libs/opencv"]
+	path = libs/opencv
+	url = https://github.com/opencv/opencv
+[submodule "libs/imagemagick"]
+	path = libs/imagemagick
+	url = https://github.com/ImageMagick/ImageMagick
+[submodule "libs/libvips"]
+	path = libs/libvips
+	url = https://github.com/libvips/libvips
+[submodule "libs/pillow"]
+	path = libs/pillow
+	url = https://github.com/python-pillow/Pillow
+[submodule "libs/scikit-image"]
+	path = libs/scikit-image
+	url = https://github.com/scikit-image/scikit-image
+[submodule "ai/upscayl"]
+	path = ai/upscayl
+	url = https://github.com/upscayl/upscayl
+[submodule "ai/real-esrgan"]
+	path = ai/real-esrgan
+	url = https://github.com/xinntao/Real-ESRGAN
+[submodule "ai/gfpgan"]
+	path = ai/gfpgan
+	url = https://github.com/TencentARC/GFPGAN
+[submodule "ai/rembg"]
+	path = ai/rembg
+	url = https://github.com/danielgatis/rembg
+[submodule "ai/iopaint"]
+	path = ai/iopaint
+	url = https://github.com/Sanster/IOPaint
+[submodule "ai/segment-anything"]
+	path = ai/segment-anything
+	url = https://github.com/facebookresearch/segment-anything
+[submodule "ai/stable-diffusion-webui"]
+	path = ai/stable-diffusion-webui
+	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui
+[submodule "ai/comfyui"]
+	path = ai/comfyui
+	url = https://github.com/Comfy-Org/ComfyUI
+[submodule "ai/instruct-pix2pix"]
+	path = ai/instruct-pix2pix
+	url = https://github.com/timothybrooks/instruct-pix2pix
+[submodule "mobile/photoeditor-android"]
+	path = mobile/photoeditor-android
+	url = https://github.com/burhanrashid52/PhotoEditor
+[submodule "mobile/android-gpuimage"]
+	path = mobile/android-gpuimage
+	url = https://github.com/wasabeef/android-gpuimage
+[submodule "mobile/gpuimage"]
+	path = mobile/gpuimage
+	url = https://github.com/BradLarson/GPUImage
+[submodule "mobile/gpuimage3"]
+	path = mobile/gpuimage3
+	url = https://github.com/BradLarson/GPUImage3
